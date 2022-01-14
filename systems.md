@@ -1,9 +1,9 @@
-# Systems
+# SYSTEMS
 
 All systems have gas giants with stations / resource extraction to some degree. All systems have in-system ships, space stations, and the like. Most systems have an asteroid belt or two. The Homeworld system (Avis III) has been lost to history.
 
 
-## Imperium Worlds 
+## Imperium Worlds
 
 Nitholia (III) (week 02-03)
 
@@ -81,17 +81,23 @@ Slowship-founded
 
 Bedadus (II, III, IV) (week 58-59)
 
-Michoarus (week 60-61) Asteroid system
+Michoarus (week 60-61)  
+Asteroid system
 
-HEMITHEA (week 62-63) Asteroid system
+HEMITHEA (week 62-63)  
+Asteroid system
 	
-Istrilia (week 64-65) Gas giants
+Istrilia (week 64-65)  
+Gas giants
 
-Dainus (week 66-67) Gas giants
+Dainus (week 66-67)  
+Gas giants
 
-Chitrypso (week 68-69) Gas giants
+Chitrypso (week 68-69)  
+Gas giants
 
-Gozion (III) (week 70-71) Slowship-founded
+Gozion (III) (week 70-71)  
+Slowship-founded
 The Link
 
 Tuthehines (III) (week 72-73)
@@ -124,7 +130,9 @@ A lot of high technology, including automated fab plants.
 
 Vulmeotune (III) (week 94-95)
 Slowship-founded
- Ichiohines (III) (week 96-97) 
+  
+Ichiohines (III) (week 96-97)  
+
 Kibos (III) (week 98-99)
 
 SHEXIM (IV) (week 100-01)

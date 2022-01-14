@@ -31,10 +31,16 @@ The Religion maintains a somewhat-secret prophesy, of a day when a female will b
 ## IMPERIAL LAW
 Imperial Law is fixed, interpreted literally, and enforced by the Army.
 
-1. To threaten Imperium is cause for extermination. 
-2. Houses Major, Minor, and Ascendent hold their system through  line of succession and strength of arm. Houses may voluntarily release their system to Imperium. If there is no line of succession and no holding Hosue, Imperium may elevate a lower-order House to hold a system. No House may hold more than one system. 
-3. Imperium exercises full control and final authority of what is transported by the Imperial City, and what fees are imposed. 
-4. The Shexosant is fully independent, and strictly enforces Imperial law on everyone, including Imperium, without interpretation. 
-5. All Imperial citizens are registered at birth and tested at 16 years of age; any found with the power of distant thought or arm (telepathy or telekinetic) shall be joined to the Spier; any found with the power of Cognaution shall be joined to the Cognaut Guild; any found with the power of Folding shall be put to death and denied an Afterlife. 
-6. The Firma Animarum is independent provided it inducts no women into its ranks. The judgements of the Firma Animarum Iudicium, when requested, shall be final and absolute. The Firma Animarum shall have final determination of entry into the Afterlife, and sole power to mediate between this life and the one After. 
+1. To threaten Imperium is cause for extermination.  
+
+2. Houses Major, Minor, and Ascendent hold their system through  line of succession and strength of arm. Houses may voluntarily release their system to Imperium. If there is no line of succession and no holding Hosue, Imperium may elevate a lower-order House to hold a system. No House may hold more than one system.  
+
+3. Imperium exercises full control and final authority of what is transported by the Imperial City, and what fees are imposed.  
+
+4. The Shexosant is fully independent, and strictly enforces Imperial law on everyone, including Imperium, without interpretation.  
+
+5. All Imperial citizens are registered at birth and tested at 16 years of age; any found with the power of distant thought or arm (telepathy or telekinetic) shall be joined to the Spier; any found with the power of Cognaution shall be joined to the Cognaut Guild; any found with the power of Folding shall be put to death and denied an Afterlife.  
+
+6. The Firma Animarum is independent provided it inducts no women into its ranks. The judgements of the Firma Animarum Iudicium, when requested, shall be final and absolute. The Firma Animarum shall have final determination of entry into the Afterlife, and sole power to mediate between this life and the one After.  
+
 7. This is the whole of the Law, never to be bent or amended.

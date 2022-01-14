@@ -1,4 +1,4 @@
-# BLOCKING
+# OUTLINE
 
 ## ACT ONE
 ### BLOCK ONE
@@ -22,9 +22,9 @@
 
 ### BLOCK TWO
 #### CH 07 / IMPERIAL CITY + HEMITHEA • 2063-02 (local) • 2063-63 (Imperial)
-* Imperium makes the offer to the Laxhurst family (this is the City’s second week in the system). They accept, and on the way out ask Jaiden to join them, when the time comes, as a political advisor. Make it clear that Jaiden has really gained some political acumen in his short time. We sound out Jaiden on the UnImperium before the meeting with the Emperor, and on the political situation after. 
+* Imperium makes the offer to the Laxhurst family (this is the City’s second week in the system). They accept, and on the way out ask Jaiden to join them, when the time comes, as a political advisor. Make it clear that Jaiden has really gained some political acumen in his short time. We sound out Jaiden on the UnImperium before the meeting with the Emperor, and on the political situation after.
 
-#### CH 02 
+#### CH 02
 
 #### CH 03
 
