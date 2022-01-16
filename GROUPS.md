@@ -1,6 +1,6 @@
 # GROUPS
 
-THE IMPERIUM (IMPERIUM GALACTICA)
+## THE IMPERIUM (IMPERIUM GALACTICA)
 Centered on IMPERIAL CITY, a gargantuan starship. The seat of the EMPEROR (ZOEAVE CHADARC), whose family has the unique ability to Fold space, moving the entire ship in the blink of an eye between nearly any two points in space. Accompanied by a great IMPERIAL FLEET, which docks with the city. Primary purpose of the city is its immense FREIGHTYARDS, the means by which interstellar trade is conducted. Freighters drop off and lock on during the city’s visit to a system, and it’s the only means of trade across worlds. The empire uses its stranglehold on trade to regulate export licenses, refusing to carry/buy any goods which are not licensed. In practice, this results in near-monopolies of many critical goods. The size of the imperial family is a closely held secret, but it is known that only female members of the family have the Folding power (males born with it are put to death). The First Emperor (ALISCAR CHADRAC) opened the stars to humanity, but did so by preventing the formation of any true interstellar government. Prior to the Empire, Folding was a rare and unreliable talent, and most of humanity’s initial colony systems traveled by slowship—many of whom were disgruntled to find an Emperor popping up in their system after they’d thought themselves forgotten and independent. However, there was a small network of Fold-established colonies (perhaps a dozen), who form the Homeworlds. These were intended as the start of a true interstellar empire, although they were extremely rebellious. Now, anyone found (when tested at 16 for Guild membership) to have Folding talent is killed and denied access to the afterlife. The IMPERIAL CITY visits each place for roughly a couple of weeks, and there are 50 systems—meaning an official IMPERIAL YEAR is 100 weeks. Each system celebrates their New Year when the CITY visits.
 * Interstellar trade looks like the Imperium buying and reselling, for the most part; simply collecting a transport fee is less common.
 
@@ -32,19 +32,20 @@ The Religion maintains a somewhat-secret prophesy, of a day when a female will b
 ## IMPERIAL LAW
 Imperial Law is fixed, interpreted literally, and enforced by the Army.
 
-1. To threaten Imperium is cause for extermination.  
+1. To threaten Imperium is cause for extermination.
 
-2. Houses Major, Minor, and Ascendent hold their system through  line of succession and strength of arm. Houses may voluntarily release their system to Imperium. If there is no line of succession and no holding Hosue, Imperium may elevate a lower-order House to hold a system. No House may hold more than one system.  
+2. Houses Major, Minor, and Ascendent hold their system through  line of succession and strength of arm. Houses may voluntarily release their system to Imperium. If there is no line of succession and no holding Hosue, Imperium may elevate a lower-order House to hold a system. No House may hold more than one system.
 
-3. Imperium exercises full control and final authority of what is transported by the Imperial City, and what fees are imposed.  
+3. Imperium exercises full control and final authority of what is transported by the Imperial City, and what fees are imposed.
 
-4. The Shexosant is fully independent, and strictly enforces Imperial law on everyone, including Imperium, without interpretation.  
+4. The Shexosant is fully independent, and strictly enforces Imperial law on everyone, including Imperium, without interpretation.
 
-5. All Imperial citizens are registered at birth and tested at 16 years of age; any found with the power of distant thought or arm (telepathy or telekinetic) shall be joined to the Spier; any found with the power of Cognaution shall be joined to the Cognaut Guild; any found with the power of Folding shall be put to death and denied an Afterlife.  
+5. All Imperial citizens are registered at birth and tested at 16 years of age; any found with the power of distant thought or arm (telepathy or telekinetic) shall be joined to the Spier; any found with the power of Cognaution shall be joined to the Cognaut Guild; any found with the power of Folding shall be put to death and denied an Afterlife.
 
-6. The Firma Animarum is independent provided it inducts no women into its ranks. The judgements of the Firma Animarum Iudicium, when requested, shall be final and absolute. The Firma Animarum shall have final determination of entry into the Afterlife, and sole power to mediate between this life and the one After.  
+6. The Firma Animarum is independent provided it inducts no women into its ranks. The judgements of the Firma Animarum Iudicium, when requested, shall be final and absolute. The Firma Animarum shall have final determination of entry into the Afterlife, and sole power to mediate between this life and the one After.
 
 7. This is the whole of the Law, never to be bent or amended.
 
+## UNIMPERIUM WORLDS
+* As you might expect, there is a REBELLION of sorts, consisting of a few systems that sit outside the Imperium and who have their own rogue Folders. They refer to themselves as the UnImperium Worlds. A certain number of Imperium worlds—primarily those early ones founded by slowship—have a secret alliance with the UnImperium, as they firmly wish to break the Imperial monopoly on interstellar travel. They do not necessarily want an interstellar government _per se,_ but they’d rather negotiate their own trade and simply pay for carriage. They propose the CONSOCIATIO COMMERCIUM GRATIS, a Free Trade Guild, which would be the galaxy’s third Guild. It would continue to have a monopoly on Folding _training_, but would be subject to market powers and wouldn’t stop free agents.
 
-#is_material
