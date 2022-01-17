@@ -28,7 +28,6 @@ Haruta (IV) (week 16-17)
 
 Roccore (III, IV) (week 18-19)
 Slowship-founded
-Original center of FA breeding
 
 Thomiliv (II) (week 20-21)
 
@@ -75,9 +74,12 @@ Slowship-founded
 Podryria (V) (week 54-55)
 Slowship-founded
 Banking
+Headquarters of the Firma Animarum 
+Where the Iudex capability was invented
 
 Thotonia (III, IV) (week 56-57)
 Slowship-founded
+Original system of House Chadrac
 
 Bedadus (II, III, IV) (week 58-59)
 

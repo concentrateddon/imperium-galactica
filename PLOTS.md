@@ -1,5 +1,13 @@
 # PLOTS
 
+## META-ARC
+ACT 1: Jaiden embraces the truth of his heritage and is shown sufficient evidence that this will be worth pursuing.
+
+ACT 2: Jaiden and his crew, suffering through setbacks, work to gain the support needed. Ends up falling short, engaging some fairly severe consequences.
+
+ACT 3: They sync up with the UnImperium planets, realize that Folding _isn’t_ dead outside the Imperial family, and come to a new detent with Imperial City.
+
+
 ## A: JAIDEN KENTUR
 
 * A young man, JAIDEN KENTUR, just turned 18, has been raised by the Religion on CHIOTIS III after being orphaned. He is taken by a priest (RHETBRAND HARRBRAS) to the Imperial City to take a vocation (with the Emperor’s permission) as he was not born into the Religion and doesn’t have the necessary aptitudes (e.g., communing or cognaution) to remain. Turns out... he’s the Emperor’s natural-born son, and the Religion believes he can Fold. Winds up being hired by the uprising family (below) as an advisor, after meeting the family head on Imperial City advising on protocols.

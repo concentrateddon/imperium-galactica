@@ -5,7 +5,7 @@ Centered on IMPERIAL CITY, a gargantuan starship. The seat of the EMPEROR (ZOEAV
 * Interstellar trade looks like the Imperium buying and reselling, for the most part; simply collecting a transport fee is less common.
 
 
-## THE RELIGION (FIRMAS SOLAS)
+## THE RELIGION (FIRMA ANIMARIUM)
 An all-male religion, and the sole contact between the world of the living and the world of the dead. Afterlife is a known, real thing, but the religion holds substantial sway over who is admitted and who may be contacted. They spend much of their time laying down prophesies meant to further their many secret causes, the greatest of which is their desire to break the Imperial monopoly on Folding—although in public, they support the Imperium completely. Their connection to the Other Side gives them many subtle powers, such as being able to detect lies. The religion’s IUDICIUM (judge: IUDEX) can act as a final arbitrator for judgements, both Imperial and planetary. When solicited, their judgements are swift and immediate; in cases where death is the penalty, they deny entry into the afterlife. REVERED FATHERS advise most planetary leaders and the Emperor. Members of the religion are forbidden to marry, although members with acceptable genetics are encouraged to procreate. The First Emperor placed that and other significant restrictions on the Religion in exchange for not obliterating them; the Religion secretly detests the Emperor on principle, and seeks to establish an interstellar republic in which they play a guiding role. Led by IMPERIAL HIGH PRIEST CURTUS PENMYN.
 
 ## HMIs, or, Cognauts
